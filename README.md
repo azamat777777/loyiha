@@ -1,20 +1,41 @@
 # loyiha
 ## Bu ikkinchi repisotory
 ***Bu test fayl***
-![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY)
-![GitHub forks](https://img.shields.io/github/forks/USERNAME/REPOSITORY)
-![GitHub issues](https://img.shields.io/github/issues/USERNAME/REPOSITORY)
-![GitHub license](https://img.shields.io/github/license/USERNAME/REPOSITORY)
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode)](https://skillicons.dev)
+
+<h1 align="center">🚀 My Awesome Project</h1>
+
 <p align="center">
-  <img src="IMAGE_URL" width="300">
+  A short description of my project.
 </p>
-| Technology | Usage |
-|---|---|
-| HTML | Structure |
-| CSS | Design |
-| JavaScript | Functionality |
+
+<p align="center">
+  ![Stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY)
+  ![License](https://img.shields.io/github/license/USERNAME/REPOSITORY)
+</p>
+
+## 📌 About Project
+
+This project is created to demonstrate my skills.
+
+## 🛠 Technologies
+
+[![Skills](https://skillicons.dev/icons?i=html,css,js,python,git,github)](https://skillicons.dev)
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/USERNAME/REPOSITORY.git
+cd REPOSITORY
+```
+
+## 📸 Screenshots
+
+![Screenshot](images/screenshot.png)
+
+## 👨‍💻 Author
+
+Created by Your Name.
+
+## 📄 License
+
+This project is licensed under the MIT License.
